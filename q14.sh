@@ -59,7 +59,7 @@ start_ed()
 #
 print_help_uu()
 {
-	   echo "Usage: $0 -c -d -m -v {editor name}"; 
+	   echo "Usage: $0 -c -d -m -e {editor name}"; 
 	   echo "Where -c clear the screen";
 	   echo "      -d show dir";
 	   echo "      -m start midnight commander shell";
