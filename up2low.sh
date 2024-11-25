@@ -1,11 +1,4 @@
-#!/bin/bash
-#
-# up2low : script to convert upercase filename to lowercase in current 
-# working dir
-# Author : Vivek G. Gite <vivek@nixcraft.com>
-#
-#Copy this file to your bin directory i.e. $HOME/bin as cp rename.awk $HOME/bin
-#
+
 
 AWK_SCRIPT="rename.awk"
 
@@ -36,7 +29,4 @@ fi
 
 rm -f /tmp/tmpdb.$$
 
-#
-# ./ch.sh: vivek-tech.com to nixcraft.com referance converted using this tool
-# See the tool at http://www.nixcraft.com/uniqlinuxfeatures/tools/
-#
+

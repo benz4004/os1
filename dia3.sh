@@ -8,7 +8,4 @@ case $sel in
      255) echo "Canceled by user by pressing [ESC] key";;
 esac 
 
-#
-# ./ch.sh: vivek-tech.com to nixcraft.com referance converted using this tool
-# See the tool at http://www.nixcraft.com/uniqlinuxfeatures/tools/
-#
+

@@ -1,11 +1,3 @@
-#!/bin/bash
-#
-# Linux Shell Scripting Tutorial 1.05r3, Summer-2002
-#
-# Written by Vivek G. Gite <vivek@nixcraft.com>
-#
-# Latest version can be found at http://www.nixcraft.com/
-#
 
 show_datetime()
 {
@@ -131,7 +123,3 @@ case $retopt in
 done
 clear
 
-#
-# ./ch.sh: vivek-tech.com to nixcraft.com referance converted using this tool
-# See the tool at http://www.nixcraft.com/uniqlinuxfeatures/tools/
-#
